@@ -1,3 +1,10 @@
+fix: uninstalling gulp from global scope 
+  npm uninstall -g gulp 
+then re-install all the dependencies from the sample-project 
+  npm install 
+and run the app 
+  npm start.
+
 ---
 page_type: sample
 products:
